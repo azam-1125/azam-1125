@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Shaik Azam Hussain.<br>I am from srikalahasthi, currently staying in Hyderabad.<br>I am working at Genpact as a Process Associate. 
+I am a detail-oriented professional currently working as a Process Associate at Genpact, with a strong background in data handling, analysis, and reporting. I have experience working with structured datasets, applying Python and SQL for data preparation, analysis, and insight generation, and creating clear visualizations using Power BI. Through academic and practical projects, I have worked on predictive modeling and data-driven problem solving across domains such as travel and healthcare. I am known for my analytical approach, accuracy, and ability to translate data into meaningful operational insights
 
 
 ## 🌐 Socials:
