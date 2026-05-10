@@ -12,9 +12,7 @@ Data Analyst based in Hyderabad, India
 
 | Project | Tools | Highlights |
 |---|---|---|
-| [E-commerce Dashboard](link) | Python, SQL, Power BI | 100K+ orders, RFM segmentation, 4-page dashboard |
-| [Hotel Booking Prediction](link) | Python, Scikit-learn | 94% accuracy, 30K records |
-| [Healthcare No-Show](link) | Python, Power BI, SQL | 87% recall, 110K records |
-
-## 📈 GitHub Stats
-![Azam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikazam-1125&show_icons=true&theme=default)
+| [E-commerce Dashboard](https://github.com/azam-1125/ecommerce-dashboard) | Python, SQL, Power BI | 100K+ orders, RFM segmentation, 4-page dashboard |
+| [Uber-Data-Analytics-Dashboard](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard) |  Python, SQL, Power BI | 150k+ bookings, interactive dashboard |
+| [Hotel Booking Prediction](https://github.com/azam-1125/healthcare_showup_prediction) | Python, Scikit-learn | 94% accuracy, 30K records |
+| [Healthcare No-Show](https://github.com/azam-1125/Hotel-Booking-Prediction-Project) | Python, Power BI, SQL | 87% recall, 110K records |
