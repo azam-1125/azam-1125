@@ -17,4 +17,4 @@ Data Analyst based in Hyderabad, India
 | [Healthcare No-Show](link) | Python, Power BI, SQL | 87% recall, 110K records |
 
 ## 📈 GitHub Stats
-![Azam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikazam&show_icons=true&theme=default)
+![Azam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikazam-1125&show_icons=true&theme=default)
