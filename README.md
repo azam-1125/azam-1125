@@ -16,3 +16,4 @@ Data Analyst based in Hyderabad, India
 | [Uber-Data-Analytics-Dashboard](https://github.com/azam-1125/Uber-Data-Analytics-Dashboard) |  Python, SQL, Power BI | 150k+ bookings, interactive dashboard |
 | [Hotel Booking Prediction](https://github.com/azam-1125/healthcare_showup_prediction) | Python, Scikit-learn | 94% accuracy, 30K records |
 | [Healthcare No-Show](https://github.com/azam-1125/Hotel-Booking-Prediction-Project) | Python, Power BI, SQL | 87% recall, 110K records |
+| [IPL Win Predictor](https://github.com/azam-1125/ipl-win-predictor)| Python · Scikit-learn · Streamlit | 82% accuracy · 0.91 AUC · Live app |
