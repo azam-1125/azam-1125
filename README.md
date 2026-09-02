@@ -1,4 +1,4 @@
-# Hi, I'm Shaik Azam 👋
+# Hi, I'm Shaik Azam Hussain 👋
 
 Data Analyst based in Hyderabad, India
 
